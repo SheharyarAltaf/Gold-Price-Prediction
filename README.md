@@ -21,7 +21,7 @@ This project implements a machine learning model to predict the price of gold ba
 | **NumPy**       | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=013243) |
 
 ## Output Screenshot
-<img src="output.png" alt="Screenshot of the application output">
+<img src="output.PNG" alt="Screenshot of the application output">
 
 ## Installation
 
